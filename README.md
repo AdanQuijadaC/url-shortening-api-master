@@ -5,7 +5,7 @@ This is a solution to the [Shortly URL shortening API Challenge challenge on Fro
 ### Links
 
 - Solution URL: https://github.com/AdanQuijadaC/url-shortening-api-master
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://url-shortening-api-master-gamma.vercel.app/
 
 ## My process
 
